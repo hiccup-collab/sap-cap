@@ -1,0 +1,6 @@
+ID,name,industry,website,address_ID,createdAt,createdBy,modifiedAt,modifiedBy
+23267380-df5b-4951-8c0d-044c0b824270,name-23267380,industry-23267380,website-23267380,17148737-4d53-493d-afe7-cb495577d3fe,2017-01-25T00:00:00.000Z,createdBy.dup84@example.org,2016-01-01T00:00:00.000Z,modifiedBy.dup84@example.net
+23184441-d454-40e4-8ddd-de5fc3f94145,name-23184441,industry-23184441,website-23184441,17148737-4d53-493d-afe7-cb495577d3fe,2007-01-26T00:00:00.000Z,createdBy.dsx89@example.net,2007-01-12T00:00:00.000Z,modifiedBy.dsx89@example.com
+23184442-b881-4b96-abcf-dee087c6ee98,name-23184442,industry-23184442,website-23184442,17148737-4d53-493d-afe7-cb495577d3fe,2007-06-01T00:00:00.000Z,createdBy.dsx8a@example.net,2019-03-11T00:00:00.000Z,modifiedBy.dsx8a@example.net
+23184443-1027-433d-ab58-f19a61a94bc2,name-23184443,industry-23184443,website-23184443,17148737-4d53-493d-afe7-cb495577d3fe,2018-12-02T00:00:00.000Z,createdBy.dsx8b@example.com,2021-05-07T00:00:00.000Z,modifiedBy.dsx8b@example.org
+23184444-7d2b-4798-8ff4-5b35b2463fd0,name-23184444,industry-23184444,website-23184444,17148737-4d53-493d-afe7-cb495577d3fe,2022-04-03T00:00:00.000Z,createdBy.dsx8c@example.net,2010-11-30T00:00:00.000Z,modifiedBy.dsx8c@example.com

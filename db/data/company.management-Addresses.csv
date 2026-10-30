@@ -1,0 +1,6 @@
+ID,street,city,state,postalCode,country,createdAt,createdBy,modifiedAt,modifiedBy
+17148737-4d53-493d-afe7-cb495577d3fe,street-17148737,city-17148737,state-17148737,postalCode-17148737,country-17148737,2007-06-02T00:00:00.000Z,createdBy.a7k1t@example.com,2004-01-30T00:00:00.000Z,modifiedBy.a7k1t@example.net
+12273452-005d-4927-98b3-78e8cc574ce2,street-12273452,city-12273452,state-12273452,postalCode-12273452,country-12273452,2013-06-26T00:00:00.000Z,createdBy.7b298@example.net,2014-11-10T00:00:00.000Z,modifiedBy.7b298@example.com
+12273453-2447-4abe-bd66-fb9110870f7d,street-12273453,city-12273453,state-12273453,postalCode-12273453,country-12273453,2016-02-06T00:00:00.000Z,createdBy.7b299@example.org,2021-04-24T00:00:00.000Z,modifiedBy.7b299@example.com
+12273454-8722-44c4-a4aa-f8ec5f9a7ea1,street-12273454,city-12273454,state-12273454,postalCode-12273454,country-12273454,2023-11-05T00:00:00.000Z,createdBy.7b29a@example.com,2013-07-14T00:00:00.000Z,modifiedBy.7b29a@example.org
+12273455-c2bb-4ae0-a19f-b930490c786d,street-12273455,city-12273455,state-12273455,postalCode-12273455,country-12273455,2009-02-18T00:00:00.000Z,createdBy.7b29b@example.org,2023-11-19T00:00:00.000Z,modifiedBy.7b29b@example.com

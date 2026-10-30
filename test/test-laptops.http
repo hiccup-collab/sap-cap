@@ -1,0 +1,27 @@
+@server="http://localhost:4004"
+@serverpath="/odata/v4/company-records"
+
+### READ Metadata
+GET http://localhost:4004/odata/v4/company-records/$metadata
+
+### Read Comapaines Records
+GET http://localhost:4004/odata/v4/company-records/Companies
+
+### Read Address
+GET http://localhost:4004/odata/v4/company-records/Addresses
+
+### CREATE/POST Addresses
+POST http://localhost:4004/odata/v4/company-records/Addresses
+Content-Type:  application/json
+
+{
+    "street": "street-12273458",
+    "city": "city-12273458",
+    "state": "state-12273452",
+    "postalCode": "postalCode-12273452",
+    "country": "country-12273452"
+}
+
+##### DELETE Addresses
+ DELETE http://localhost:4004/odata/v4/company-records/Addresses/41fe5d62-3f4a-435c-8068-3883e95f96be
+
