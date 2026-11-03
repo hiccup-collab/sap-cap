@@ -49,7 +49,7 @@ Content-Type: application/json
 
 
 ### Read Laptop Records
-GET http://localhost:4004/odata/v4/company-records/Laptops
+ GET http://localhost:4004/odata/v4/company-records/Laptops
 
 ### Create Laptop Records
 POST http://localhost:4004/odata/v4/company-records/Laptops
