@@ -1,4 +1,4 @@
-@server="http://localhost:4004"
+@server="http://localhost:4004/"
 @serverpath="/odata/v4/company-records"
 
 ### READ Metadata
@@ -24,4 +24,43 @@ Content-Type:  application/json
 
 ##### DELETE Addresses
  DELETE http://localhost:4004/odata/v4/company-records/Addresses/41fe5d62-3f4a-435c-8068-3883e95f96be
+
+
+### Select specific fields only
+GET http://localhost:4004/odata/v4/company-records/Companies?$select=industry
+
+###
+GET http://localhost:4004/odata/v4/company-records/Employess
+
+### 
+POST http://localhost:4004/odata/v4/company-records/Employess
+Content-Type: application/json
+
+{
+    "firstName": "firstName-10700185",
+    "lastName": "lastName-10700185",
+    "email": "",
+    "jobTitle": "jobTitle-10700185",
+    "hireDate": "2010-07-02",
+    "salary": "9987390313.53",
+    "department_ID": "26203533-73fb-47be-bc5a-873704233470",
+    "address_ID": "17148737-4d53-493d-afe7-cb495577d3fe"
+}
+
+
+### Read Laptop Records
+GET http://localhost:4004/odata/v4/company-records/Laptops
+
+### Create Laptop Records
+POST http://localhost:4004/odata/v4/company-records/Laptops
+Content-Type: application/json
+
+{
+ "brand": "brand-11665498",
+"model": "model-11665498",
+ "serialNumber": "serialNumber-11665498"   
+}
+
+
+
 
